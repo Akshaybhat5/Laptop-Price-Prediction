@@ -1,3 +1,3 @@
 # Laptop-Price-Prediction
 
-App-link : 
+App-link : https://laptop-price-predictor-mdl.herokuapp.com/
