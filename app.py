@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 
 data = pickle.load(open('data.pkl','rb'))
-model = pickle.load(open('random_forest.pkl','rb'))
+model = pickle.load(open('model.pkl','rb'))
 
 st.title('LAPTOP PRICE PREDICTOR')
 
